@@ -1,3 +1,5 @@
+
+
 File Parser CRUD API with Progress Tracking
 A Django-based backend application for uploading, parsing, and managing files with real-time progress tracking. Supports CSV, Excel, and PDF files with asynchronous processing using Celery and Redis.
 
